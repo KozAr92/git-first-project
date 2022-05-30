@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/git-first-project/static/js/main.cd51d66e.js",
+    "index.html": "/git-first-project/index.html",
+    "main.cd51d66e.js.map": "/git-first-project/static/js/main.cd51d66e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cd51d66e.js"
+  ]
+}
